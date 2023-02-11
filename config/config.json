@@ -1,0 +1,13 @@
+{
+    "version": "dev",
+    "debug": "false",
+    "fullScreen": "false",
+    "windowWidth": "1920",
+    "windowHeight": "1080",
+    "tailleTableau": "8",
+    "iaDelay": "1000",
+    "minMaxCeil": "5",
+    "pathToGameSaved": "saves/" ,
+    "lang": "fr",
+    "theme": "bright"
+}

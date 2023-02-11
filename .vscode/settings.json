@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\tsumi\\Documents\\cours\\FAC\\l2 S3\\poo\\projet\\json-simple-1.1.1.jar",
+        "c:\\Users\\othma\\Documents\\Projets\\json-simple-1.1.1.jar",
+        "c:\\Users\\tsumi\\Documents\\cours\\FAC\\l2 S3\\poo\\projet\\sqlite-jdbc-3.40.0.0.jar"
+    ]
+}
